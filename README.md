@@ -25,4 +25,4 @@ The `keyhouse.svg` wallpaper is original. Keyhouse OS is an independent Ubuntu c
 See [FEATURES.md](FEATURES.md) for three local tools included for real estate work.
 
 
-The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
+The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
