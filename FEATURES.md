@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/keyhouse-os-workspace features/keyhouse-os-plan features/keyhouse-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for real estate work:
+
+1. **GNOME Calendar** — org.gnome.Calendar
+2. **KeePassXC** — org.keepassxc.KeePassXC
+3. **VSCodium** — com.vscodium.codium
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

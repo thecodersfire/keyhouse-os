@@ -24,3 +24,9 @@ The `keyhouse.svg` wallpaper is original. Keyhouse OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for real estate work.
 
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
